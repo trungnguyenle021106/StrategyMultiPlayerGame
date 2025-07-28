@@ -1,4 +1,7 @@
+
+
 # Setting to run :
+## Use Git LFS
 ## Setting for GooglePlayGame
 ## Setting for Firebase
 ## Setting For Photon Unity Networing 2
